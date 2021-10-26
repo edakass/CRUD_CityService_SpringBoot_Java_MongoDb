@@ -9,7 +9,9 @@ https://start.spring.io/
 ![get](https://user-images.githubusercontent.com/61595808/138962741-73ee2143-6531-4adf-9274-d2af817a0056.png)
 
 
+---------------
 /cities/add/48
+---------------
 
 ![post id ile](https://user-images.githubusercontent.com/61595808/138962887-6b1b8dcd-771b-4f90-976d-98e68521d6ef.png)
 
