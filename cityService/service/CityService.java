@@ -19,10 +19,9 @@ public class CityService {
             return cityRepository.findAll(Sort.by(Sort.Direction.ASC, "id"));
         }else{
            return  null;
-
        }
     }
-
+    
     public City createCity(City newCity) {
         Optional<City> cityByName=cityRepository.findByName(newCity.getName());
 
