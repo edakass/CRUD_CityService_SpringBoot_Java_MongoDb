@@ -68,7 +68,4 @@ public class CityController {
     public  ResponseEntity<String> handleCityAlreadyExistsException(CityAlreadyExistsException ex){
         return new ResponseEntity<>(ex.getMessage(), CONFLICT);
     }
-
-
-
 }
